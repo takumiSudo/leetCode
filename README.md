@@ -6,17 +6,12 @@ Just wanted to keep a log of all the problems I do.
 
 ## Table of Contents
 
-1. [LeetCode Solutions](#leetcode-solutions)
+1. [Data Structures](#data-structures)
    - [Arrays](./md/arrays.md)
    - [Strings](./md/strings.md)
    - [Linked Lists](md/linked-lists.md)
 
-2. [Data Structures](#data-structures)
-   - [Arrays](./md/ds-arrays.md)
-   - [Linked Lists](./md/ds-linked-lists.md)
-   - [Trees](./md/ds-trees.md)
-   
-3. [Algorithms](#algorithms)
+2. [Algorithms](#algorithms)
    - [Sorting](./md/alg-sorting.md)
    - [Searching](./md/alg-searching.md)
    
