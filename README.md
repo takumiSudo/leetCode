@@ -7,19 +7,19 @@ Just wanted to keep a log of all the problems I do.
 ## Table of Contents
 
 1. [LeetCode Solutions](#leetcode-solutions)
-   - [Arrays](arrays.md)
-   - [Strings](strings.md)
-   - [Linked Lists](linked-lists.md)
-   - ... _// Add more categories as needed_
+   - [Arrays](./md/arrays.md)
+   - [Strings](./md/strings.md)
+   - [Linked Lists](md/linked-lists.md)
+
 2. [Data Structures](#data-structures)
-   - [Arrays](ds-arrays.md)
-   - [Linked Lists](ds-linked-lists.md)
-   - [Trees](ds-trees.md)
-   - ... _// Add more data structures as needed_
+   - [Arrays](./md/ds-arrays.md)
+   - [Linked Lists](./md/ds-linked-lists.md)
+   - [Trees](./md/ds-trees.md)
+   
 3. [Algorithms](#algorithms)
-   - [Sorting](alg-sorting.md)
-   - [Searching](alg-searching.md)
-   - ... _// Add more algorithms as needed_
+   - [Sorting](./md/alg-sorting.md)
+   - [Searching](./md/alg-searching.md)
+   
 
 ## LeetCode Problems
 
